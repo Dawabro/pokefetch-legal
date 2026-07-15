@@ -96,7 +96,7 @@ revised before the change ships.
 
 ## Contact
 
-Questions or data requests: **[YOUR SUPPORT EMAIL]**
+Questions or data requests: **jetstreamdev@icloud.com**
 
 ---
 
